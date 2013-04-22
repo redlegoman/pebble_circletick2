@@ -1,1 +1,2 @@
-README
+A Pebble watch face for the first version of the Pebble watch face SDK<br><br>
+I wanted this to be a full circle which grows, but I had to make it an outline. If you can work out why, if the second black circle is not drawn garbage appears before the larger white cirle grows, let me know please! I have used code from Simplicity and Segment Six from the Pebble team, and from <a href =https://github.com/op12/pebble/>op1a</a>2, here on github.
